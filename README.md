@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello how are you? I'm Amanda, Junior Web Developer in the learning process. I am currently graduating from UNIFEBE in Information Systems. I participated in the Young Programmer Program at Senac and worked as a Vtex development intern at Híbrido. My knowledge is focused on Front-end and my heart belongs to this area, however, I really want to understand more about Back-end and how everything works behind the screen.
 
 <!--
 **AmandaZimmermann/AmandaZimmermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
